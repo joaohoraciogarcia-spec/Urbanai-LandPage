@@ -1,7 +1,8 @@
 export default function App() {
   return (
-    <div>
-      <h1>UrbanAI funcionando</h1>
-    </div>
+    <main>
+      <h1>UrbanAI</h1>
+      <p>Sistema iniciado com sucesso.</p>
+    </main>
   )
 }
